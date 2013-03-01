@@ -231,7 +231,7 @@ Easy to configure | yes
 ### relevancy of documents
 
 !SLIDE timer
-#[Time?](#slide-57)
+#[Time?](#slide-56)
 ### the time is now
 
 Wow you are fast!
@@ -287,6 +287,11 @@ Autocompletion
     
     
 
+!SLIDE imgscale
+![hashtag](images/hashtag.png)
+
+!SLIDE imgscale
+![hashtag](images/stemming.png)
 
 
 !SLIDE left reveal

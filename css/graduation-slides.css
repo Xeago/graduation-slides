@@ -48,3 +48,8 @@ li {
 h3 {
   color: #444 !important;
 }
+
+.imgscale img {
+    height:600px;
+    width:400px;
+}
