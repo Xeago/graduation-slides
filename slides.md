@@ -18,6 +18,8 @@
 + My results
 + Things I am not satisfied with
 
+optional: extras
+
 !SLIDE
 
 ![VideofyMe](images/videofyme.png)
@@ -229,7 +231,7 @@ Easy to configure | yes
 ### relevancy of documents
 
 !SLIDE timer
-#Time?
+#[Time?](#slide-57)
 ### the time is now
 
 Wow you are fast!
