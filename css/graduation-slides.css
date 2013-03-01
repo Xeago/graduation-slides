@@ -1,0 +1,48 @@
+.deck-prev-link,
+.deck-next-link {
+    display: none !important;
+}
+
+/*
+.deck-status {
+    display: none;
+}
+*/
+
+.reveal ul, .reveal ol, .reveal li {
+  padding:0;
+  margin:0;
+}
+.reveal ol {
+  padding-top:2em;
+}
+.reveal ul {
+  list-style-type: none;
+  margin-left:6em;
+  padding-bottom:.5em;
+}
+
+.reveal ol > li {
+  display:list-item !important;
+  list-style-type:decimal;
+}
+
+.reveal ul > li {
+  display:list-item !important;
+  list-style-type:disc;
+}
+
+.list-style-none.reveal  ul > li, .list-style-none.reveal  ol > li {
+  display:list-item;
+  list-style-type:none;
+  font-size:1.7em !important;
+  padding-top:1em;
+}
+
+li {
+  font-size:1em !important;
+}
+
+h3 {
+  color: #444 !important;
+}
